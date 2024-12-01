@@ -1,0 +1,59 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Thuốc A1",
+      "manufacturer": "Hãng A",
+      "type": "Kháng sinh",
+      "uses": "Điều trị nhiễm khuẩn",
+      "price": 20000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cristiano-ronaldo-of-portugal-reacts-as-he-looks-on-during-news-photo-1725633476.jpg?crop=0.666xw:1.00xh;0.180xw,0&resize=640:*"
+    },
+    {
+      "id": 2,
+      "name": "Thuốc A2",
+      "manufacturer": "Hãng A",
+      "type": "Giảm đau",
+      "uses": "Giảm đau, hạ sốt",
+      "price": 15000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Thuốc B1",
+      "manufacturer": "Hãng B",
+      "type": "Kháng viêm",
+      "uses": "Giảm viêm, đau khớp",
+      "price": 30000,
+      "image": "https://external-preview.redd.it/iftv-andrea-pirlo-during-calciopoli-i-had-already-signed-v0--T7_eOjwugPbkjzfZRV-GaLoOdBEpcwVPP6KTtdo_dM.jpg?auto=webp&s=7e9c6e0fa7d17b9d4c505b45c789ce0e342d3ace"
+    },
+    {
+      "id": 4,
+      "name": "Thuốc B2",
+      "manufacturer": "Hãng B",
+      "type": "An thần",
+      "uses": "Giảm lo âu, căng thẳng",
+      "price": 25000,
+      "image": "https://photo.znews.vn/w660/Uploaded/wobjcak/2024_10_14/C163975A_AFF8_4BBB_9.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Thuốc C1",
+      "manufacturer": "Hãng C",
+      "type": "Hạ huyết áp",
+      "uses": "Giảm huyết áp cao",
+      "price": 40000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg/220px-Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "fullName": "anhmy",
+      "phoneNumber": "0856230927",
+      "medicineName": "Thuốc A2",
+      "quantity": 7,
+      "totalPrice": 105000,
+      "id": 1
+    }
+  ]
+}
